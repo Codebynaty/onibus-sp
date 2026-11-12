@@ -8,9 +8,8 @@ Disciplina: Cross-Platform Application Development — Ciência da Computação 
 
 | Nome completo | RM |
 |---|---|
-| NOME DO INTEGRANTE 1 | RM00000 |
-| NOME DO INTEGRANTE 2 | RM00000 |
-| NOME DO INTEGRANTE 3 | RM00000 |
+| Natalia Alcantara | RM568570 |
+| Raissa Marinho | RM568301 |
 
 ## Funcionalidades
 
@@ -35,7 +34,7 @@ React Native · Expo · React Navigation (tabs + stack) · AsyncStorage · react
 ### 2. Instalar
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Codebynaty/onibus-sp.git
 cd onibus-sp
 npm install
 ```
