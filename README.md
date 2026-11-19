@@ -11,6 +11,9 @@ Disciplina: Cross-Platform Application Development — Ciência da Computação 
 | Natalia Alcantara | RM568570 |
 | Raissa Marinho | RM568301 |
 
+## Video do App
+https://drive.google.com/file/d/1ussYvBrNWpTmclwkH9UZTKI6sg_UOjrq/view?usp=sharing
+
 ## Funcionalidades
 
 - **Buscar linha** por número ou nome (`/Linha/Buscar`).
